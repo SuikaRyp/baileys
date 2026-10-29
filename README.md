@@ -28,7 +28,7 @@
    </a>
 </p>
 
-☕ For donation: 
+☕ For donation: [Saweria](https://saweria.co/suikaaxsantanic)
 
 ### 📋 Table of Contents
 - [📋 Table of Contents](#-table-of-contents)
