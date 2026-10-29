@@ -23,6 +23,11 @@
   ],
   "author": "Suikaaxsantanic",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuikaRyp/baileys.git",
+    "directory": "packages/starforge"
+  },
   "publishConfig": {
     "access": "public"
   },
